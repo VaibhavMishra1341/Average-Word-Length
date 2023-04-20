@@ -1,7 +1,6 @@
 # Average-Word-Length
  Big Data - MapReduce code for finding out the average word length of a text file in Hadoop system
  
-# Code Description
  ## MapReduce 
  - It divides the input data into small chunks
 
